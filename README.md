@@ -5,7 +5,7 @@ BattleNet provider for Laravel Socialite/Socialite Providers.
 
 Composer:
 
-`composer install team-Goldendeveloper/socialite-battlenet`
+`composer require goldendeveloper/battlenet`
 
 Same procedure as any other SocialiteProviders package. Add the event handler to the Socialite Providers array:
 
